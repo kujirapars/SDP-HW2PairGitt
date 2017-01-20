@@ -20,4 +20,4 @@ print(num3)
 num4 = random.randint(0,99)
 
 print "1st Lotto 2 digit"
-print(num)
+print(num4)
